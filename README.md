@@ -1,7 +1,7 @@
 # SARIM
 Structured additive regression using iterative methods.
 
-Fitting STAR models using MCMC methods and Krylov subspace methods.
+Fitting STAR models using MCMC and Krylov subspace methods.
 
 ## Installation
 
