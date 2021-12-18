@@ -8,5 +8,5 @@ Fitting STAR models using MCMC and Krylov subspace methods.
 #### Developer version:
 
 ```r
-devtools::install_github("parikhaleghi/Sarim")
+devtools::install_github("parikhaleghi/SARIM")
 ```
