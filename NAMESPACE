@@ -1,0 +1,6 @@
+useDynLib(Sarim)
+importFrom("methods", "as")
+importFrom("utils", "packageVersion")
+import(RcppEigen)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
