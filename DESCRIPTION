@@ -6,7 +6,7 @@ Date: 2021-04-08
 Author: Parisa Khaleghi
 Maintainer: Parisa Khaleghi <parisakhaleghi97@gmail.com>
 Description: Using MCMC algorithm for fitting additive regression model to large-scale problems.
-License: GPL-3
+License: BSD-3
 Imports: 
     Rcpp (>= 0.12.15), 
     RcppEigen (>= 0.3.3.3.0),
